@@ -1,1 +1,3 @@
-# LinkedIn-Connect_DevOps
+# maven-project
+
+Simple Maven Project
